@@ -1,5 +1,5 @@
 Feature: Login to QTM
   QTM application login
 
-  Scenario:
+ Scenario:
     Given Login to QTM
